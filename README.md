@@ -6,7 +6,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/DSINE-Anything-jupyter/blob/main/DSINE_jupyter.ipynb) | DSINE_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/DSINE-jupyter/blob/main/DSINE_jupyter.ipynb) | DSINE_jupyter
 
 ### 🧬 Code
 https://github.com/baegwangbin/DSINE
