@@ -12,7 +12,7 @@
 https://github.com/baegwangbin/DSINE
 
 ### 📄 Paper
-https://github.com/baegwangbin/DSINE/raw/main/paper.pdf
+https://arxiv.org/abs/2403.00712
 
 ### 🌐 Page
 https://baegwangbin.github.io/DSINE/
