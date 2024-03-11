@@ -21,4 +21,4 @@ https://baegwangbin.github.io/DSINE/
 ![Screenshot 2024-03-03 180347](https://github.com/camenduru/DSINE-jupyter/assets/54370274/cb8992e0-2e03-44e9-b060-844e35d68559)
 
 ### 🏢 Sponsor
-https://modelslab.com
+https://replicate.com
